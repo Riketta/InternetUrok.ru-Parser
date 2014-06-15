@@ -11,7 +11,7 @@ using System.Text.RegularExpressions;
 using System.IO;
 using System.Xml;
 
-namespace InternetUrok_Parser
+namespace InternetUrok.ru_Parser
 {
     class Program
     {
