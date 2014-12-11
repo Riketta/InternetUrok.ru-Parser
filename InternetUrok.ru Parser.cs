@@ -36,8 +36,8 @@ namespace InternetUrok.ru_Parser
         static void Main()
         {
             Console.Title = "InternetUrok.ru Parser";
-            Console.WriteLine("InternetUrok.ru");
-            string Base = "http://interneturok.ru - автор Riketta (rowneg@bk.ru) - 2014";
+            Console.WriteLine("InternetUrok.ru - автор Riketta (rowneg@bk.ru)");
+            string Base = "http://interneturok.ru";
 
             Console.WriteLine("Введите конец ссылки после \"http://interneturok.ru\" включая \"/\"\n(например: \"/ru/school/physics/10-klass\"):");
             string URL_End = Console.ReadLine();
